@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1700756534 source:c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"createList.h"
+	"addNode.h"
+	"deleteNode.h"
+	"destroyList.h"
+	"searchNode.h"
+
+1700758061 c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\createlist.h
+
+1700761103 c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\addnode.h
+
+1700757544 c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\destroylist.h
+
+1700758807 c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\deletenode.h
+
+1700758530 c:\users\ltfmu\onedrive\masaüstü\veri yapýsý projesi\proje\searchnode.h
+
