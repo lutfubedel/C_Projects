@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1702552636 source:c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\struct_projesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"create_stack.h"
+	"push_stack.h"
+	"pop_stack.h"
+	<stdbool.h>
+
+1702548427 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\struct_projesi\struct_header.h
+
+1702549743 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\struct_projesi\create_stack.h
+
+1702548939 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\struct_projesi\push_stack.h
+
+1702549373 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\struct_projesi\pop_stack.h
+
+1702553460 source:c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\proje_2\struct_projesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"create_stack.h"
+	"push_stack.h"
+	"pop_stack.h"
+
+1702549743 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\proje_2\struct_projesi\create_stack.h
+
+1702548939 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\proje_2\struct_projesi\push_stack.h
+
+1702549373 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\proje_2\struct_projesi\pop_stack.h
+
+1703174824 source:c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\stack uygulamasý\struct_projesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"create_stack.h"
+	"push_stack.h"
+	"pop_stack.h"
+
+1702549743 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\stack uygulamasý\struct_projesi\create_stack.h
+
+1703172433 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\stack uygulamasý\struct_projesi\push_stack.h
+
+1703172943 c:\users\ltfmu\onedrive\masaüstü\Üniversite\2.sýnýf\1.dönem\veri yapýlarý\odev\stack uygulamasý\struct_projesi\pop_stack.h
+
+1703757760 source:d:\github repo\c_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"create_stack.h"
+	"push_stack.h"
+	"pop_stack.h"
+
+1703756822 d:\github repo\c_stack\create_stack.h
+
+1703757016 d:\github repo\c_stack\push_stack.h
+
+1703757351 d:\github repo\c_stack\pop_stack.h
+

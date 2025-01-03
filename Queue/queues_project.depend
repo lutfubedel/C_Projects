@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1703740271 source:c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\queues_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"create_queue.h"
+	"enqueue.h"
+	"dequeue.h"
+
+1703695284 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\queues_project\create_queue.h
+
+1703433910 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\queues_project\enqueue.h
+
+1703685876 c:\users\ltfmu\onedrive\masaüstü\veri yapýlarý odevi\queues_project\dequeue.h
+
+1703766125 source:d:\github repo\c_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"create_queue.h"
+	"enqueue.h"
+	"dequeue.h"
+
+1703762605 d:\github repo\c_queue\create_queue.h
+
+1703764145 d:\github repo\c_queue\enqueue.h
+
+1703763051 d:\github repo\c_queue\dequeue.h
+
